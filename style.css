@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #0d1117;
+  color: #c9d1d9;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 30px;
+  background-image: url(cs2.jpg);
+}
+
+.div2 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 30px;
+  color: #5e98da;
+}
+
+.color {
+  color: hsl(194, 78%, 73%);
+}
+p {
+  color: white;
+}
+.project h1 {
+ color: aquamarine;
+}
+header h1 {
+  font-size: 50px;
+  color: #58a6ff;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #58a6ff;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: #79c0ff;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #30363d;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style-type: square;
+  margin-left: 20px;
+}
+
+.project {
+  margin-top: 15px;
+  padding: 10px;
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 8px;
+}
+
+a {
+  color: #58a6ff;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 0.9em;
+  color: #8b949e;
+}
